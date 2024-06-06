@@ -1,0 +1,11 @@
+2024-06-06 15:28:37,328 - main - INFO - Address with ID 4 created successfully
+2024-06-06 15:28:55,521 - main - INFO - Found All Addresses: [<database.Address object at 0x0000022835164438>, <database.Address object at 0x0000022835164470>, <database.Address object at 0x00000228351644A8>]
+2024-06-06 15:30:26,056 - main - INFO - Found All Addresses: [<database.Address object at 0x000002950C938160>, <database.Address object at 0x000002950C938198>, <database.Address object at 0x000002950C9381D0>]
+2024-06-06 15:31:22,342 - main - INFO - Found All Addresses: [<database.Address object at 0x00000226A1C280B8>, <database.Address object at 0x00000226A1C280F0>, <database.Address object at 0x00000226A1C28128>]
+2024-06-06 15:31:52,134 - main - INFO - Found All Addresses: [<database.Address object at 0x00000244DB0681D0>, <database.Address object at 0x00000244DB068208>, <database.Address object at 0x00000244DB068240>]
+2024-06-06 15:32:32,565 - main - INFO - Address Deleted Successfully 2
+2024-06-06 15:33:45,978 - main - INFO - Address Updated Successfully 3
+2024-06-06 15:34:18,730 - main - INFO - Address Updated Successfully of Address_Id 3
+2024-06-06 15:34:20,175 - main - INFO - Address Updated Successfully of Address_Id 3
+2024-06-06 15:41:42,679 - main - INFO - Found All Addresses: [{'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001CB2247F1C8>, 'name': 'string', 'city': 'string', 'zip': 100000, 'longitude': 0.0, 'street': 'string', 'state': 'string', 'id': 3, 'latitude': 0.0}, {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001CB2247F228>, 'name': 'string', 'city': 'string', 'zip': 1, 'longitude': 3.6, 'street': 'string', 'state': 'string', 'id': 4, 'latitude': 2.5}]
+2024-06-06 15:46:24,774 - logger - INFO - Found All Addresses: [{'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001EB73001228>, 'name': 'string', 'city': 'string', 'zip': 100000, 'longitude': 0.0, 'street': 'string', 'id': 3, 'state': 'string', 'latitude': 0.0}, {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001EB73001288>, 'name': 'string', 'city': 'string', 'zip': 1, 'longitude': 3.6, 'street': 'string', 'id': 4, 'state': 'string', 'latitude': 2.5}]
