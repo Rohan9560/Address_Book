@@ -62,3 +62,8 @@ API Users should also be able to retrieve the addresses that are within a given 
     3. Get All Addresses
     4. Delete Address
     5. Update Address
+  
+**To execute apis**
+
+- Expand the api
+- Click on Try it out to execute the api then provide the details
